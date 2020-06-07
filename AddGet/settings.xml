@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="fe4efd20-1944-4089-a3ec-c2c46d202666" name="AddGet" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="fe4efd20-1944-4089-a3ec-c2c46d202666fileName">AddGet</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties><con:property><con:name>ID</con:name><con:value>34</con:value></con:property></con:properties><con:reportParameters/></con:testSuite>
