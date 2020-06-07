@@ -13,4 +13,4 @@
          <typ:age>23</typ:age>\r
       </typ:addEmployee>\r
    </soapenv:Body>\r
-</soapenv:Envelope>]]></con:request><con:credentials><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="urn:addEmployee"/><con:wsrmConfig version="1.2"/></con:call></con:operation>
+</soapenv:Envelope>]]></con:request><con:credentials><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="urn:addEmployee"/><con:wsrmConfig version="1.2"/><con:environmentSpec><con:entry environmentId="f598c11b-065e-4b29-b3ef-7168aec4ca34"><con:authProfile>No Authorization</con:authProfile></con:entry><con:entry environmentId="1b7021ab-089a-4f67-8d02-21f966133219"><con:authProfile>No Authorization</con:authProfile></con:entry></con:environmentSpec></con:call></con:operation>
